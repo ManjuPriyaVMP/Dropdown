@@ -1,0 +1,21 @@
+select option {
+    margin: 40px;
+   
+   
+  }
+  
+  select option[value="Monday"] {
+    background: red
+  }
+  
+  select option[value="Tuesday"] {
+    background: blue
+  }
+  
+  select option[value="Wednesday"] {
+    background: orange
+  }
+  
+  select option[value="Thursday"] {
+    background: rgba(250, 250, 250, 0.3);
+  }
